@@ -15,4 +15,5 @@ FROM  `tablapis` where cama='$cama'")) {
    	return holi
    }
    
+   newt_form_set_timer(form, milliseconds)
 ?>
