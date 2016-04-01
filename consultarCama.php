@@ -10,5 +10,9 @@ FROM  `tablapis` where cama='$cama'")) {
     	}
     	
    }
+
+   if(nico==1){
+   	return holi
+   }
    
 ?>
